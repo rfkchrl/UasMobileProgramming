@@ -33,6 +33,15 @@
         <activity
             android:name=".MainActivity"
             android:theme="@style/AppTheme"/>
+        <activity
+            android:name=".DetailActivity"
+            android:theme="@style/AppTheme"/>
+        <activity
+            android:name=".DetailActivityFun"
+            android:theme="@style/AppTheme"/>
+        <activity
+            android:name=".DetailActivityPurba"
+            android:theme="@style/AppTheme"/>
     </application>
 
 </manifest>
